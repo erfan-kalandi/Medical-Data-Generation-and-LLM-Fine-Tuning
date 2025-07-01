@@ -1,0 +1,548 @@
+[
+  {
+    "question": "دلیل شایع تنگی نفس در بیماران با نارسایی قلبی چیست؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در عفونت سینوسی، کدام علامت بیشتر دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماران مبتلا به کم‌کاری غده پاراتیروئید، چه علامتی شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام‌یک از علائم زیر در نارسایی کبدی مزمن دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیماری آلزایمر، کدام علامت رفتاری بیشتر دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در کم‌آبی شدید بدن، کدام علامت در معاینه قابل مشاهده است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام علامت در بیماران با پرکاری تیروئید شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیمار مبتلا به نقرس، کدام مفصل معمولاً درگیر می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیمار دچار خونریزی مغزی، علامت اولیه چیست؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت در افراد مبتلا به بیماری سلیاک دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماران مبتلا به افسردگی، شایع‌ترین علامت چیست؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "در آرتریت روماتوئید، کدام علامت در دست‌ها دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماران مبتلا به لخته خون وریدی عمقی (DVT)، کدام علامت دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در مسمومیت با مواد افیونی، چه علامتی معمولاً وجود دارد؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت از علائم شایع پنومونی (ذات‌الریه) است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در سندرم روده تحریک‌پذیر (IBS)، چه علامتی بیشتر دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در خون‌ریزی دستگاه گوارش تحتانی، چه علامتی وجود دارد؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در کم‌کاری غده فوق کلیوی (آدیسون)، کدام علامت شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت می‌تواند نشانه حمله پانیک (panic attack) باشد؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در خون‌ریزی مغزی، کدام علامت می‌تواند اولین هشدار باشد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیماری میاستنی گراویس، علامت بارز کدام است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماری آلرژیک بینی، کدام علامت شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "بیمار با تاری دید ناگهانی در یک چشم بدون درد ممکن است دچار چه بیماری باشد؟",
+    "predicted": "2",
+    "correct": 2,
+    "is_correct": true
+  },
+  {
+    "question": "در تشخیص دیابت نوع ۲، کدام علامت اولیه شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت به‌ویژه در کمبود آهن در کودکان مشاهده می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیماران مبتلا به صرع، علامت اولیه در حمله تشنجی چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در اختلال دوقطبی، دوره شیدایی معمولاً با چه علامتی همراه است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در کمبود ویتامین D در کودکان، چه علامتی دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام علامت برای تشخیص بیماری آلزایمر زودرس بیشتر مطرح است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "بیماری بواسیر داخلی معمولاً با کدام علامت همراه است؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "در آسم، چه زمانی علائم بیشتر ظاهر می‌شوند؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "علت شایع سرگیجه وضعیتی حمله‌ای خوش‌خیم (BPPV) چیست؟",
+    "predicted": "2",
+    "correct": 2,
+    "is_correct": true
+  },
+  {
+    "question": "کدام مورد از علائم بیماری آنفلوآنزا محسوب می‌شود؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "بیماری گواتر ساده در اثر کمبود کدام ماده ایجاد می‌شود؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "وجود زردی پوست و چشم در نوزاد ممکن است به علت چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در سکته مغزی، کدام علامت به‌طور ناگهانی ظاهر می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در کمبود آهن، کدام علامت پوستی ممکن است دیده شود؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت در بیماران مبتلا به گاستریت شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در تشخیص آنژین ناپایدار، کدام ویژگی درد سینه اهمیت دارد؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "در تشخیص بیماری کلیوی مزمن، چه علامتی شایع است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام علامت می‌تواند نشانه فشار خون پایین (هیپوتانسیون) باشد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیماران مبتلا به میگرن، چه علامتی ممکن است قبل از شروع سردرد دیده شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در تشخیص بیماری زونا، چه علامتی معمولاً مشاهده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در تشخیص سکته قلبی، کدام علامت بالینی اهمیت بیشتری دارد؟",
+    "predicted": "1",
+    "correct": 1,
+    "is_correct": true
+  },
+  {
+    "question": "افت سطح هوشیاری ناگهانی در سالمند می‌تواند ناشی از کدام حالت باشد؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "علائم شایع کمبود ویتامین B12 شامل کدام گزینه است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت نشان‌دهنده‌ی کم‌آبی شدید بدن است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در کودکان، کدام علامت می‌تواند نشان‌دهنده عفونت ادراری باشد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیمار مبتلا به دیابت نوع ۲، افزایش ناگهانی قند خون ممکن است باعث کدام علامت شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در مسمومیت با گاز CO، علامت اولیه چیست؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت می‌تواند از نشانه‌های زخم معده باشد؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در عفونت ادراری در زنان، شایع‌ترین علامت چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در آپاندیسیت حاد، درد معمولاً از کدام ناحیه شروع می‌شود؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در بیمار دچار کم‌کاری تیروئید، انتظار داریم کدام علامت وجود داشته باشد؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "سرفه مزمن خلط‌دار در فرد سیگاری ممکن است نشانه چیست؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در خون‌ریزی دستگاه گوارش فوقانی، معمولاً چه علامتی دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "لرزش دست‌ها در حالت استراحت، بیشتر با کدام بیماری مرتبط است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در فردی با اختلال در جذب چربی، کدام علامت دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت در شروع سکته مغزی گذرا (TIA) شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "علت عمده زردی در نوزاد چند روزه سالم چیست؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام‌یک از علائم زیر بیشتر با بیماری آرتروز زانو دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در مبتلایان به بیماری ریفلاکس معده، چه شکایتی شایع است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام‌یک از موارد زیر از نشانه‌های مسمومیت با استامینوفن است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "وجود لکه‌های سفید روی زبان در بیمار HIV مثبت بیشتر نشانه چیست؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام علامت بیشتر در بیماران مبتلا به کم‌خونی مزمن دیده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماری سل ریوی، چه علامتی شایع است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیمار با نارسایی کلیه مزمن، چه علامتی انتظار می‌رود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام‌یک از موارد زیر از علائم شایع کم‌خونی فقر آهن است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام علامت می‌تواند مشخصه‌ی بیماری پارکینسون باشد؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "کاهش وزن شدید و مزمن، اسهال و وجود خون در مدفوع بیشتر به کدام بیماری اشاره دارد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام گزینه از علائم شایع بیماری منیر است؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "چه علامتی در بیماری هوچکین بیشتر مشاهده می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "درد زانو و برجستگی دردناک زیر کشکک در نوجوانان فعال ورزشی نشانه چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "علت اصلی بروز علائم عصبی در بیماری پارکینسون چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماری آدیسون، کدام علامت شایع‌تر است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام‌یک از موارد زیر در تشخیص افتراقی بیماری بورژر اهمیت دارد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "علت اصلی کم‌خونی در بیماری کرون چیست؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "درد مزمن و نوسانی گوش، سرگیجه و احساس پری گوش نشانه کدام بیماری است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت برای تشخیص افسردگی شدید بیشتر مطرح است؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماری آنژین صدری، شایع‌ترین شکایت بیمار چیست؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "کدام علامت ممکن است نشانه‌ای از دیابت کنترل‌نشده باشد؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "کدام گزینه زیر از عوارض شایع فشار خون بالا است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "علائم کلاسیک هیپوتیروئیدی شامل کدام مورد است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "سوزش سر دل معمولاً نشانه کدام بیماری است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "درد شدید ناگهانی در پهلو که به کشاله ران تیر می‌کشد، اغلب نشانه چیست؟",
+    "predicted": "3",
+    "correct": 4,
+    "is_correct": false
+  },
+  {
+    "question": "کاهش ناگهانی سطح هوشیاری در فرد دیابتی می‌تواند ناشی از چیست؟",
+    "predicted": "3",
+    "correct": 1,
+    "is_correct": false
+  },
+  {
+    "question": "کدام‌یک از موارد زیر علامت اصلی در سکته مغزی حاد است؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماری سلیاک، مصرف گلوتن منجر به کدام علامت اصلی می‌شود؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماران مبتلا به لوپوس اریتماتوز سیستمیک، شایع‌ترین علامت پوستی چیست؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  },
+  {
+    "question": "در نارسایی قلبی سمت چپ، شایع‌ترین علامت چیست؟",
+    "predicted": "3",
+    "correct": 2,
+    "is_correct": false
+  },
+  {
+    "question": "در بیماران مبتلا به سیروز کبدی، شایع‌ترین علامت اولیه کدام است؟",
+    "predicted": "3",
+    "correct": 3,
+    "is_correct": true
+  }
+]
